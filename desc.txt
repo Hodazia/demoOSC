@@ -1,0 +1,3 @@
+This folder contains a demo of making open source contribution 
+Issues, merges and pull requests.
+I will deploy it onto to GITHUB, and you can create an issue and submit a PR to that.
